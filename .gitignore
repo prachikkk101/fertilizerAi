@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large datasets
+# Uncomment these if your datasets are too large for GitHub
+# data/raw/
+# data/processed/
+
+# Generated output
+outputs/
+
+# Temporary files
+*.tmp

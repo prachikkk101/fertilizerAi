@@ -1,0 +1,27 @@
+{
+    "classifier_features": [
+        "District_Name",
+        "Soil_color",
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "pH",
+        "Rainfall",
+        "Temperature",
+        "Crop",
+        "Growth_Stage"
+    ],
+    "regressor_features": [
+        "District_Name",
+        "Soil_color",
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "pH",
+        "Rainfall",
+        "Temperature",
+        "Crop",
+        "Growth_Stage",
+        "Primary_Fertilizer"
+    ]
+}

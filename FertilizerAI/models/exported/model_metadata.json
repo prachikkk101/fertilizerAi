@@ -1,0 +1,9 @@
+{
+    "project": "AI Based Fertilizer Mixing System",
+    "models": {
+        "classifier": "RandomForestClassifier",
+        "regressor": "RandomForestRegressor"
+    },
+    "version": "1.0",
+    "purpose": "Fertilizer recommendation and automated mixing"
+}
